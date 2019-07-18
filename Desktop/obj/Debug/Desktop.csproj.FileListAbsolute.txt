@@ -1,0 +1,10 @@
+D:\github\FishingGuide\Desktop\bin\Debug\Desktop.exe.config
+D:\github\FishingGuide\Desktop\bin\Debug\Desktop.exe
+D:\github\FishingGuide\Desktop\bin\Debug\Desktop.pdb
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.csprojAssemblyReference.cache
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.Form1.resources
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.exe
+D:\github\FishingGuide\Desktop\obj\Debug\Desktop.pdb
